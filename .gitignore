@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+vendor
+s33d-backend
+.env
+.docker
+s33d-backend-prod
